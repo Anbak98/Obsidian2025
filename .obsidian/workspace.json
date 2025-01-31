@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "3a8e26b1af579666",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bd01cde953bf1a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a850e1ccbcb23c05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-STUDY/The C++ Programming Language - Fourth Edition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The C++ Programming Language - Fourth Edition"
+            }
+          },
+          {
+            "id": "7915e931bb7c054c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-STUDY/CS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CS"
+            }
+          },
+          {
+            "id": "15cd8bf2cd87bbd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-STUDY/The C++ Programming Language - Fourth Edition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The C++ Programming Language - Fourth Edition"
+            }
+          },
+          {
+            "id": "a5abfdddabb2a301",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "c5d080cce1b2da93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Sparta-Boot-Camp/2025-01-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-24"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c89775c818fd51ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2257f492b4124f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d713704875ad92d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0b59faad637b7786",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ab5eb9aea2e630dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63e5684547ed7d73",
+    "type": "split",
+    "children": [
+      {
+        "id": "d998e9c8191aff16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c90bc9ee2757472",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0-STUDY/CS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CS"
+            }
+          },
+          {
+            "id": "1925553c08b95189",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0-STUDY/CS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CS"
+            }
+          },
+          {
+            "id": "53af7f497717bbd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "40d0bb216201441c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0-STUDY/The C++ Programming Language - Fourth Edition.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The C++ Programming Language - Fourth Edition"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c5d080cce1b2da93",
+  "lastOpenFiles": [
+    "0-STUDY/The C++ Programming Language - Fourth Edition.md",
+    "1-RECORD/Unreal_Ant_Simulator.md",
+    "1-RECORD/Unity_Big_Defence.md",
+    "2-Sparta-Boot-Camp/2025-01-24.md",
+    "2-Sparta-Boot-Camp/2025-01-23.md",
+    "2-Sparta-Boot-Camp/2025-01-22.md",
+    "2-Sparta-Boot-Camp/2025-01-21.md",
+    "2-Sparta-Boot-Camp/2025-01-20.md",
+    "Untitled.md",
+    "포폴.md",
+    "2-Sparta-Boot-Camp",
+    "0-STUDY/CS.md",
+    "1-RECORD",
+    "0-STUDY",
+    "999.image/Unreal_Ant_Simulator-20241029123833530.webp",
+    "할 일.md",
+    "999.image/할 일-20241029123811135.webp",
+    "Pasted image 20241018012146.png",
+    "999.image",
+    "청원이 모음.md",
+    "Welcome.md",
+    "0-STUDY/Algorithm.md"
+  ]
+}
