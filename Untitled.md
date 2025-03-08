@@ -1,3 +1,5 @@
 - 포톤
 - 모델링 Mixamo
-- 
+- SendMessage
+- Shift F12 vs ctrl shift f
+- 포톤 네트워크 동기화는 RPC 처리 필요 없다. 개편함 > 근데 모 포스팅에서는 
