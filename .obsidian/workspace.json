@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-24.md",
+                "file": "2025-03-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-24"
+              "title": "2025-03-25"
             }
           },
           {
@@ -224,8 +224,9 @@
   },
   "active": "db3cc37c27402e55",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "2025-03-24.md",
+    "2025-03-25.md",
+    "Untitled.canvas",
     "2025-03-21.md",
     "2-Sparta-Boot-Camp/2025-03-14.md",
     "2-Sparta-Boot-Camp/2025-03-07.md",
