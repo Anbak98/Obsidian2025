@@ -13,6 +13,8 @@
 - 플레이어가 얻을 수 있는 장점 > 이미 여러 번 
 - 유지 보수와 디버깅 쉬워짐
 - 개발자가 생명 주기 함수 중 Update, FixedUpdate, LateUpdate를 잘 사용하여 CPU 부담을 나눌 수 있다.
+	- Update 마다 특징
+
 
 ## C++
 - Class/Struct는 기본 접근 제한자가 각각 Private/Public이다. 상속의 기본 접근 제한자도 동일하다. class는 추상화 목적으로 사용하고, struct는 데이터 구조를 정의할 때 사용한다. 필요에 따라 함수를 추가할 수도 있다.
