@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b0b07c5a46a2903e",
+        "id": "f28771cd0e4009db",
         "type": "tabs",
         "children": [
           {
@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "2025-04-23"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b0b07c5a46a2903e",
+        "type": "tabs",
+        "children": [
           {
             "id": "beb114acc3301608",
             "type": "leaf",
@@ -35,8 +41,7 @@
               "title": "2025-05-02"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
