@@ -5,3 +5,5 @@
 - string.find 도... 기억 못 했었고. string::npos도.
 
 - 문제 자체는 아스키 숫자로 비교하면서 for문 순환하는 편이 제일 좋다고 생각해요.
+
+- string length
